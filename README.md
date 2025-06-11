@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer at Augmen.io • Tech Explorer • Travel Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Software+Developer+%40+Augmen.io;Frontend+Engineer+%7C+React+%2B+Next.js;UI%2FUX+Designer+%7C+Product+Thinker;Travel+Startup+Founder+%7C+TripMates" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Software+Developer;UI%2FUX+Designer+%7C+Product+Thinker;Passionate+about+building+things" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,8 +30,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvsaxena&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsaxena&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=geekofdhruv&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekofdhruv&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
