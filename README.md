@@ -24,15 +24,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,js,ts,python,postgres,figma,vite,vercel,git" />
 </p>
 
----
-
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geekofdhruv&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekofdhruv&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
