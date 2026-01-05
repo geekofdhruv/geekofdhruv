@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Saxena</h1>
-<h3 align="center">Software Developer at Augmen.io • Tech Explorer • Travel Enthusiast</h3>
+<h3 align="center">Exploring web3 • Tech Explorer • Travel Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Software+Developer;UI%2FUX+Designer+%7C+Product+Thinker;Passionate+about+building+things" alt="Typing SVG" />
